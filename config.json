@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "sessionpncrypt",
+        "uuid": 9850000,
+        "checksum": "wc3dif"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "production"
+    }
+}
